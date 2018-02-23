@@ -1,9 +1,13 @@
 'use strict';
 
-var _HA_FKING_LAST_MODULE_ID = 1;
+var MD5 = require('md5.js')
 
 function hash(str) {
-  return 'HA_MODULE_'+(_HA_FKING_LAST_MODULE_ID++);
+  str = str.replace(/\\/g, '/');
+  var md5hash = new MD5().update(str).digest('hex');
+
+  console.log(md5hash);
+  return 'HA_MODULE_'+md5hash;
 }
 
 module.exports = hash;
