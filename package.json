@@ -1,0 +1,15 @@
+{
+  "name": "hash-sum",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hash-sum.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://source.haterapps.com/Hater/hash-sum"
+  },
+  "author": "Hater Apps",
+  "license": "ISC"
+}
