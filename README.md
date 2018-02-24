@@ -50,4 +50,5 @@ Based on all of the above statements, I see no problem in using this workaround 
 
 <br />
 <br />
-<br />
+
+![https://www.haterapps.com](https://www.haterapps.com/assets/logo_text_black_bg.png)
