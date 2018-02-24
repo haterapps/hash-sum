@@ -46,7 +46,7 @@ The module contains 8 non-empty lines of code, which we can all agree, in less t
 
 This module can and should be considered as part of the extension, and not as an unapproved, or unofficial javascript library or framework.
 
-Based on all of the above statements, I see no problem in using this workaround in order to not get asked over and over again about why the generated code is not the same.
+Based on all of the above statements, on what I have presented until now, and on the fact that there is no security concern involved in transition from the original module to this one, I see no problem in using this workaround in order to not get asked over and over again about why the generated code is not the same.
 
 <br />
 <br />
