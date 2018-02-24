@@ -1,4 +1,4 @@
-## What the actually F is this page?!
+## What the actually fuck is this page?!
 
 If you reached this repository then most probably you are an addon reviewer who is wondering what the hell is this page.
 
@@ -35,6 +35,8 @@ All of the differences created were from the [Vue.js](https://vuejs.org/) librar
 
 You might ask yourself now if this is less secure because, uhm.., it has hash in name and it must be used in some cryptographic shit, or whatever. The answer is no, it is not less secure to the use case in those modules. The hash was only used in generating random module names, and that doesn't affect the security in any way at all.
 
+
+<br />
 
 #### Is this allowed?
 
