@@ -1,4 +1,4 @@
-## What the actuall fuck is this page?!
+## What the actual fuck is this page?!
 
 If you reached this repository then most probably you are an addon reviewer who is wondering what the hell is this page.
 
