@@ -5,7 +5,7 @@
   "main": "hash-sum.js",
   "repository": {
     "type": "git",
-    "url": "https://source.haterapps.com/Hater/hash-sum"
+    "url": "https://github.com/haterapps/hash-sum"
   },
   "author": "Hater Apps",
   "license": "ISC"
